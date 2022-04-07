@@ -1,6 +1,5 @@
 programa
-{
-32	
+{	
 	funcao inicio()
 	{
 		
